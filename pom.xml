@@ -96,7 +96,7 @@
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-support</artifactId>
             <version>3.3.1</version>
-=======
+
             <version>3.141.59</version>
             <scope>test</scope>
         </dependency>
@@ -774,7 +774,7 @@
             <scope>test</scope>
         </dependency>
         <dependency>
->>>>>>> 8f8e169b1bd0f56b1cf61efa1cb8b80b197df2ac
+
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-chrome-driver</artifactId>
             <version>3.141.59</version>
